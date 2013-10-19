@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.col1, .col2, {
+	float:left;
+}
+.cols {
+	width:400px;
+}
+.col1 {
+	width:600px;
+}
+.col2 {
+	width:270px;
+}
+.col3 {
+	width:280px;
+}
+.col {
+	width:870px;
+}
+#page2 .cols {
+	width:243px
+}
